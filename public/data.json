@@ -1,0 +1,1835 @@
+[
+    {
+        "id":2480,
+        "title":"СИРНІ ПАЛИЧКИ",
+        "description":"<p><em><strong>Неймовірно ніжні та хрусткі палички з сиру Моцарелла!<\/strong><\/em><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 102 г. (391.6 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4384.png",
+                "medium":"files\/medium\/medium_4384.png",
+                "thumb":"files\/thumbs\/thumb_4384.png"
+            }
+        ],
+        "url":"product\/2480\/сирні-палички"
+    },
+    {
+        "id":2455,
+        "title":"МІЛКШЕЙК  0.44 Л",
+        "description":"<p><strong>Ніжний молочний коктейль (0.44 л).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4254.png",
+                "medium":"files\/medium\/medium_4254.png",
+                "thumb":"files\/thumbs\/thumb_4254.png"
+            }
+        ],
+        "url":"product\/milkshake-440ml"
+    },
+    {
+        "id":2452,
+        "title":"ФРЕНДС КОМБО ГОСТРЕ",
+        "description":"<p><strong>12 крил у гострій паніровці, 4 гострі ніжки, 8 гострих стріпсів, бакет картоплі фрі та 4 Пепсі 0,5 (пляшка) <\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4240.png",
+                "medium":"files\/medium\/medium_4240.png",
+                "thumb":"files\/thumbs\/thumb_4240.png"
+            }
+        ],
+        "url":"product\/Friends-Combo-HS"
+    },
+    {
+        "id":2453,
+        "title":"ФРЕНДС КОМБО ОРИГІНАЛЬНЕ",
+        "description":"<p><strong>12 крил у гострій паніровці, 4 оригінальних ніжки, 8 оригінальних стріпсів, бакет картоплі фрі та 4 Пепсі 0,5 (пляшка).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4241.png",
+                "medium":"files\/medium\/medium_4241.png",
+                "thumb":"files\/thumbs\/thumb_4241.png"
+            }
+        ],
+        "url":"product\/Friends-Combo-OR"
+    },
+    {
+        "id":2451,
+        "title":"АЙС ЛАТЕ",
+        "description":"<p><em><strong>Айс Лате 0.33л<\/strong><\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4266.png",
+                "medium":"files\/medium\/medium_4266.png",
+                "thumb":"files\/thumbs\/thumb_4266.png"
+            }
+        ],
+        "url":"product\/Ice-latte-0.33l"
+    },
+    {
+        "id":2443,
+        "title":"ЛИМОНАД ПІНА КОЛАДА",
+        "description":"<p><em><strong>Лимонад Піна Колада, 0,33л<\/strong><\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4401.jpg",
+                "medium":"files\/medium\/medium_4401.jpg",
+                "thumb":"files\/thumbs\/thumb_4401.jpg"
+            }
+        ],
+        "url":"product\/Sgraw-lemonade"
+    },
+    {
+        "id":2445,
+        "title":"МОРОЗИВО АЙС ЧЕРІ З ТОПІНГОМ",
+        "description":"<p><strong>Ніжне вершкове морозиво з пиріжком (вишня) та топінгом на смак (шоколад, полуниця або карамель).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4215.png",
+                "medium":"files\/medium\/medium_4215.png",
+                "thumb":"files\/thumbs\/thumb_4215.png"
+            }
+        ],
+        "url":"product\/ice-cream-cherry-pie"
+    },
+    {
+        "id":2444,
+        "title":"ЛИМОНАД МАРАКУЙЯ",
+        "description":"<p><strong>Лимонад Маракуйя, 0,33л<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4271.png",
+                "medium":"files\/medium\/medium_4271.png",
+                "thumb":"files\/thumbs\/thumb_4271.png"
+            }
+        ],
+        "url":"product\/Passion-fruit-lemonade"
+    },
+    {
+        "id":2285,
+        "title":"БОКСМАСТЕР ГОСТРИЙ",
+        "description":"<p><strong>Куряче філе в гострій хрусткій паніровці, картопляник, скибочка сиру, томати та листя салату, майонез, загорнутi у гарячу тортілью.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 276 г. (720.4 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4186.png",
+                "medium":"files\/medium\/medium_4186.png",
+                "thumb":"files\/thumbs\/thumb_4186.png"
+            }
+        ],
+        "url":"product\/boxmaster-spicy"
+    },
+    {
+        "id":2304,
+        "title":"БАЙТС БАРБЕКЮ",
+        "description":"<p><strong>Соковиті гострі шматочки курочки у хрусткій паніровці з соусом барбекю.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 135 г. (483.5 ККАЛ)<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4370.png",
+                "medium":"files\/medium\/medium_4370.png",
+                "thumb":"files\/thumbs\/thumb_4370.png"
+            }
+        ],
+        "url":"product\/bites-barbecue"
+    },
+    {
+        "id":2406,
+        "title":"8 ГОСТРИХ КРИЛЕЦЬ",
+        "description":"<p><strong>8 гострих курячих крилець в хрусткій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 200 г. (571 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4096.png",
+                "medium":"files\/medium\/medium_4096.png",
+                "thumb":"files\/thumbs\/thumb_4096.png"
+            }
+        ],
+        "url":"product\/eight-spicy-wings"
+    },
+    {
+        "id":2407,
+        "title":"5 ГОСТРИХ КРИЛЕЦЬ",
+        "description":"<p><strong>5 гострих курячих крилець в хрусткій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 125 г. (356.8 г.).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4097.png",
+                "medium":"files\/medium\/medium_4097.png",
+                "thumb":"files\/thumbs\/thumb_4097.png"
+            }
+        ],
+        "url":"product\/five-spicy-wings"
+    },
+    {
+        "id":2331,
+        "title":"БАКЕТ ФРІ",
+        "description":"<p><strong>Бакет хрусткої картопельки фрі - великий розмір.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 240 г. (809.2 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3833.jpg",
+                "medium":"files\/medium\/medium_3833.jpg",
+                "thumb":"files\/thumbs\/thumb_3833.jpg"
+            }
+        ],
+        "url":"product\/bucket-french-frie"
+    },
+    {
+        "id":2333,
+        "title":"КАРТОПЛЯ ФРІ СТАНДАРТ",
+        "description":"<p><strong>Хрустка картопелька фрі - стандартний розмір.<\/strong><\/p>\n<p> <\/p>\n<p><em> Вага продукту - 120 г. (404.6 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3831.jpg",
+                "medium":"files\/medium\/medium_3831.jpg",
+                "thumb":"files\/thumbs\/thumb_3831.jpg"
+            }
+        ],
+        "url":"product\/french-fries-standart"
+    },
+    {
+        "id":2334,
+        "title":"КАРТОПЛЯ ФРІ МАЛА",
+        "description":"<p><strong>Хрустка картопелька фрі - малий розмір.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 70 г. (236.04 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3830.jpg",
+                "medium":"files\/medium\/medium_3830.jpg",
+                "thumb":"files\/thumbs\/thumb_3830.jpg"
+            }
+        ],
+        "url":"product\/french-fries-small"
+    },
+    {
+        "id":2332,
+        "title":"КАРТОПЛЯ ПО-ДОМАШНЬОМУ",
+        "description":"<p><strong>Розсипчаста і хрустка картопля по-домашньому.<\/strong><\/p>\n<p> <\/p>\n<p>Вага продукту - 135 г. (412.09 ККАЛ).<\/p>",
+        "imgs":[
+            {
+                "large":"files\/3834.jpg",
+                "medium":"files\/medium\/medium_3834.jpg",
+                "thumb":"files\/thumbs\/thumb_3834.jpg"
+            }
+        ],
+        "url":"product\/homemade-potatoes"
+    },
+    {
+        "id":2335,
+        "title":"ХЕШ БРАУН",
+        "description":"<p><strong>Хрумкий хешбраун iз добiрної картоплi.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 41.5 г. (157.2 ККАЛ). <\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3832.jpg",
+                "medium":"files\/medium\/medium_3832.jpg",
+                "thumb":"files\/thumbs\/thumb_3832.jpg"
+            }
+        ],
+        "url":"product\/crunchy-hashbrown"
+    },
+    {
+        "id":2336,
+        "title":"СОУС ГІРЧИЧНИЙ",
+        "description":"<p><strong>Пікантний соус гірчичний.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3825.jpg",
+                "medium":"files\/medium\/medium_3825.jpg",
+                "thumb":"files\/thumbs\/thumb_3825.jpg"
+            }
+        ],
+        "url":"product\/mustard-sauce"
+    },
+    {
+        "id":2337,
+        "title":"МАЙОНЕЗ ПРОВАНСАЛЬ",
+        "description":"<p><strong>Ніжний майонез Провансаль.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3829.jpg",
+                "medium":"files\/medium\/medium_3829.jpg",
+                "thumb":"files\/thumbs\/thumb_3829.jpg"
+            }
+        ],
+        "url":"product\/mayonnaise"
+    },
+    {
+        "id":2338,
+        "title":"СОУС БАРБЕКЮ",
+        "description":"<p><strong>Яскравий соус барбекю.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3827.jpg",
+                "medium":"files\/medium\/medium_3827.jpg",
+                "thumb":"files\/thumbs\/thumb_3827.jpg"
+            }
+        ],
+        "url":"product\/bbq-sauce"
+    },
+    {
+        "id":2339,
+        "title":"КЕТЧУП ТОМАТНИЙ",
+        "description":"<p><strong>Насичений кетчуп томатний.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3826.jpg",
+                "medium":"files\/medium\/medium_3826.jpg",
+                "thumb":"files\/thumbs\/thumb_3826.jpg"
+            }
+        ],
+        "url":"product\/ketchup"
+    },
+    {
+        "id":2483,
+        "title":"БРУСНИЧНИЙ СОУС",
+        "description":"<p><strong>Ніжний брусничний соус.<\/strong><\/p>\n<p> <\/p>\n<p> <\/p>",
+        "imgs":[
+            {
+                "large":"files\/4393.png",
+                "medium":"files\/medium\/medium_4393.png",
+                "thumb":"files\/thumbs\/thumb_4393.png"
+            }
+        ],
+        "url":"product\/2483\/брусничний-соус"
+    },
+    {
+        "id":2340,
+        "title":"СОУС КАРІ",
+        "description":"<p><strong>Пікантний соус карі.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3824.jpg",
+                "medium":"files\/medium\/medium_3824.jpg",
+                "thumb":"files\/thumbs\/thumb_3824.jpg"
+            }
+        ],
+        "url":"product\/curry-sauce"
+    },
+    {
+        "id":2341,
+        "title":"СОУС КИСЛО-СОЛОДКИЙ",
+        "description":"<p><strong>Яскравий соус кисло-солодкий.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3828.jpg",
+                "medium":"files\/medium\/medium_3828.jpg",
+                "thumb":"files\/thumbs\/thumb_3828.jpg"
+            }
+        ],
+        "url":"product\/sweet-n-sour"
+    },
+    {
+        "id":2342,
+        "title":"СОУС СИРНИЙ",
+        "description":"<p><strong>Ніжний соус сирний.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3823.jpg",
+                "medium":"files\/medium\/medium_3823.jpg",
+                "thumb":"files\/thumbs\/thumb_3823.jpg"
+            }
+        ],
+        "url":"product\/cheese-sauce"
+    },
+    {
+        "id":2347,
+        "title":"МІРІНДА 0,5 Л. (ПЛЯШКА)",
+        "description":"<p><strong>Газований напій Mirinda 0,5 л (пляшка).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4133.jpg",
+                "medium":"files\/medium\/medium_4133.jpg",
+                "thumb":"files\/thumbs\/thumb_4133.jpg"
+            }
+        ],
+        "url":"product\/mirinda-500-bottle"
+    },
+    {
+        "id":2348,
+        "title":"ПЕПСІ 0,5 Л (ПЛЯШКА)",
+        "description":"<p><strong>Пепсі 0,5 (пляшка).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3760.jpg",
+                "medium":"files\/medium\/medium_3760.jpg",
+                "thumb":"files\/thumbs\/thumb_3760.jpg"
+            }
+        ],
+        "url":"product\/pepsi-500-bottle"
+    },
+    {
+        "id":2350,
+        "title":"СЕВЕН АП 0,5 Л (ПЛЯШКА)",
+        "description":"<p><strong> Газований напій 7 Up 0,5 л (пляшка).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4134.jpg",
+                "medium":"files\/medium\/medium_4134.jpg",
+                "thumb":"files\/thumbs\/thumb_4134.jpg"
+            }
+        ],
+        "url":"product\/7up-500-bottle"
+    },
+    {
+        "id":2351,
+        "title":"МІРІНДА 0,5 Л",
+        "description":"<p><strong>Мірінда 0,5 л.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3764.jpg",
+                "medium":"files\/medium\/medium_3764.jpg",
+                "thumb":"files\/thumbs\/thumb_3764.jpg"
+            }
+        ],
+        "url":"product\/mirinda-500"
+    },
+    {
+        "id":2352,
+        "title":"ПЕПСІ 0,5 Л.",
+        "description":"<p><strong> Газований напій Pepsi 0,5 л.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3773.jpg",
+                "medium":"files\/medium\/medium_3773.jpg",
+                "thumb":"files\/thumbs\/thumb_3773.jpg"
+            }
+        ],
+        "url":"product\/pepsi-500"
+    },
+    {
+        "id":2354,
+        "title":"СЕВЕН АП 0.5 Л",
+        "description":"<p><strong> Газований напій 7 Up 0.5 л.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3771.jpg",
+                "medium":"files\/medium\/medium_3771.jpg",
+                "thumb":"files\/thumbs\/thumb_3771.jpg"
+            }
+        ],
+        "url":"product\/7up-500"
+    },
+    {
+        "id":2359,
+        "title":"МІРІНДА 0,3 Л",
+        "description":"<p><strong>Мірінда 0,3 л.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3774.jpg",
+                "medium":"files\/medium\/medium_3774.jpg",
+                "thumb":"files\/thumbs\/thumb_3774.jpg"
+            }
+        ],
+        "url":"product\/mirinda-300"
+    },
+    {
+        "id":2360,
+        "title":"ПЕПСІ 0,3 Л",
+        "description":"<p><strong>Пепсі 0,3 л.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3777.jpg",
+                "medium":"files\/medium\/medium_3777.jpg",
+                "thumb":"files\/thumbs\/thumb_3777.jpg"
+            }
+        ],
+        "url":"product\/pepsi-300"
+    },
+    {
+        "id":2362,
+        "title":"СЕВЕН АП 0.3 Л",
+        "description":"<p><strong> Газований напій 7 Up 0.3 л.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3778.jpg",
+                "medium":"files\/medium\/medium_3778.jpg",
+                "thumb":"files\/thumbs\/thumb_3778.jpg"
+            }
+        ],
+        "url":"product\/7up-300"
+    },
+    {
+        "id":2424,
+        "title":"МІНЕРАЛЬНА ВОДА ГАЗОВАНА \"КАРПАТСЬКА ДЖЕРЕЛЬНА\" 0,5 Л",
+        "description":"<p><strong>Мінеральна вода газована \"Карпатська Джерельна\" 0.5л (пляшка).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4112.png",
+                "medium":"files\/medium\/medium_4112.png",
+                "thumb":"files\/thumbs\/thumb_4112.png"
+            }
+        ],
+        "url":"product\/sparkling-water-500"
+    },
+    {
+        "id":2423,
+        "title":"МІНЕРАЛЬНА ВОДА НЕГАЗОВАНА \"КАРПАТСЬКА ДЖЕРЕЛЬНА\" 0,5 Л",
+        "description":"<p><strong>Мінеральна вода негазована \"Карпатська Джерельна\" 0.5л (пляшка).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4113.png",
+                "medium":"files\/medium\/medium_4113.png",
+                "thumb":"files\/thumbs\/thumb_4113.png"
+            }
+        ],
+        "url":"product\/sparkling-water-500"
+    },
+    {
+        "id":2369,
+        "title":"СІК \"SANDORA\" АПЕЛЬСИН 0,2Л.",
+        "description":"<p><strong>Сік \"Сандора\" зі смаком апельсину 0,2л.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4211.png",
+                "medium":"files\/medium\/medium_4211.png",
+                "thumb":"files\/thumbs\/thumb_4211.png"
+            }
+        ],
+        "url":"product\/sandora-orange-200"
+    },
+    {
+        "id":2371,
+        "title":"МІЛКШЕЙК ПОЛУНИЦЯ  0.44 Л",
+        "description":"<p><strong>Ніжний молочний коктейль полуничний (0.44 л).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4255.png",
+                "medium":"files\/medium\/medium_4255.png",
+                "thumb":"files\/thumbs\/thumb_4255.png"
+            }
+        ],
+        "url":"product\/milkshake-strawberry-400ml"
+    },
+    {
+        "id":2488,
+        "title":"ЛЮКС МІЛКШЕЙК ПОЛУНИЦЯ-ШОКОЛАД  0,44 л.",
+        "description":"<p><strong>Ніжний молочний коктейль полунично - шоколадний (0.44 л).<\/strong><\/p>\n<p> <\/p>\n<p> <\/p>",
+        "imgs":[
+            {
+                "large":"files\/4427.png",
+                "medium":"files\/medium\/medium_4427.png",
+                "thumb":"files\/thumbs\/thumb_4427.png"
+            }
+        ],
+        "url":"product\/2488\/люкс-мілкшейк-полуниця-шоколад--0,44-л."
+    },
+    {
+        "id":2372,
+        "title":"МІЛКШЕЙК ШОКОЛАД-ГОРІХ  0.44 Л",
+        "description":"<p><strong>Ніжний молочний коктейль зі смаком шоколаду та волоського горіха (0.44 л). <\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4257.png",
+                "medium":"files\/medium\/medium_4257.png",
+                "thumb":"files\/thumbs\/thumb_4257.png"
+            }
+        ],
+        "url":"product\/milkshakes-chocolate-nuts-400ml"
+    },
+    {
+        "id":2489,
+        "title":"ЛЮКС МІЛКШЕЙК БАНАН-ШОКОЛАД  0,44 л",
+        "description":"<p><strong>Ніжний молочний коктейль бананово - шоколадний (0.44 л).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4428.png",
+                "medium":"files\/medium\/medium_4428.png",
+                "thumb":"files\/thumbs\/thumb_4428.png"
+            }
+        ],
+        "url":"product\/2489\/люкс-мілкшейк-банан-шоколад--0,44-л"
+    },
+    {
+        "id":2454,
+        "title":"МІЛКШЕЙК  0.33 Л",
+        "description":"<p><strong>Ніжний молочний коктейль (0.33 л).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4253.png",
+                "medium":"files\/medium\/medium_4253.png",
+                "thumb":"files\/thumbs\/thumb_4253.png"
+            }
+        ],
+        "url":"product\/milkshake-330ml"
+    },
+    {
+        "id":2375,
+        "title":"МІЛКШЕЙК ШОКОЛАД-ГОРІХ  0.33 Л",
+        "description":"<p><strong>Ніжний молочний коктейль зі смаком шоколаду та волоського горіха (0,33 л). <\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4258.png",
+                "medium":"files\/medium\/medium_4258.png",
+                "thumb":"files\/thumbs\/thumb_4258.png"
+            }
+        ],
+        "url":"product\/milkshake-chocolate-nuts-300ml"
+    },
+    {
+        "id":2377,
+        "title":"МОРОЗИВО КРІСПІ КРАНЧ",
+        "description":"<p><strong>Мікс Lion: хрусткі кріспи, шматочки карамелі та шоколаду з топінгом на вибір!<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4412.jpg",
+                "medium":"files\/medium\/medium_4412.jpg",
+                "thumb":"files\/thumbs\/thumb_4412.jpg"
+            }
+        ],
+        "url":"product\/ice-cream-lion"
+    },
+    {
+        "id":2379,
+        "title":"МОРОЗИВО ЛІТНЯ ФАНТАЗІЯ",
+        "description":"<p><strong>Ніжне вершкове морозиво з топінгом на смак (шоколад, карамель або полуниця).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4276.png",
+                "medium":"files\/medium\/medium_4276.png",
+                "thumb":"files\/thumbs\/thumb_4276.png"
+            }
+        ],
+        "url":"product\/2379\/морозиво-літня-фантазія"
+    },
+    {
+        "id":2380,
+        "title":"ДОНАТ ПОЛУНИЧНИЙ",
+        "description":"<p><strong>Ніжний полуничний донат.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4209.png",
+                "medium":"files\/medium\/medium_4209.png",
+                "thumb":"files\/thumbs\/thumb_4209.png"
+            }
+        ],
+        "url":"product\/donut-strawberry"
+    },
+    {
+        "id":2381,
+        "title":"ДОНАТ СОЛОНА КАРАМЕЛЬ",
+        "description":"<p><strong>Дивовижний донат солона кармель.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4210.png",
+                "medium":"files\/medium\/medium_4210.png",
+                "thumb":"files\/thumbs\/thumb_4210.png"
+            }
+        ],
+        "url":"product\/donut-salted-caramel"
+    },
+    {
+        "id":2471,
+        "title":"ДОНАТ \"МАРАКУЙЯ\"",
+        "description":"<p><strong>Екзотичний донат маракуйя.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4333.jpg",
+                "medium":"files\/medium\/medium_4333.jpg",
+                "thumb":"files\/thumbs\/thumb_4333.jpg"
+            }
+        ],
+        "url":"product\/2471\/донат-\"маракуйя\""
+    },
+    {
+        "id":2384,
+        "title":"ПИРІЖОК ІЗ ВИШНЕЮ",
+        "description":"<p><strong>Хрусткий пиріжок з солодкою вишнею.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4094.png",
+                "medium":"files\/medium\/medium_4094.png",
+                "thumb":"files\/thumbs\/thumb_4094.png"
+            }
+        ],
+        "url":"product\/cherry-pie"
+    },
+    {
+        "id":2385,
+        "title":"МОРОЗИВО РІЖОК",
+        "description":"<p><strong>Ніжне м'яке вершкове морозиво у вафельному ріжку.<\/strong> <\/p>",
+        "imgs":[
+            {
+                "large":"files\/3813.jpg",
+                "medium":"files\/medium\/medium_3813.jpg",
+                "thumb":"files\/thumbs\/thumb_3813.jpg"
+            }
+        ],
+        "url":"product\/summer-ice-cream"
+    },
+    {
+        "id":2386,
+        "title":"КАПУЧИНО 0,4 Л",
+        "description":"<p><strong>Кава Капучино зернова 0.4 л. <\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4267.png",
+                "medium":"files\/medium\/medium_4267.png",
+                "thumb":"files\/thumbs\/thumb_4267.png"
+            }
+        ],
+        "url":"product\/cappuccino-400"
+    },
+    {
+        "id":2467,
+        "title":"ПРЯНЕ КАПУЧИНО 0.4.Л.",
+        "description":"<p><strong>Ароматне Капучино з сиропом \"Пряний гарбуз\".<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4309.png",
+                "medium":"files\/medium\/medium_4309.png",
+                "thumb":"files\/thumbs\/thumb_4309.png"
+            }
+        ],
+        "url":"product\/2467\/пряне-капучино-0.4.л."
+    },
+    {
+        "id":2387,
+        "title":"ЛАТЕ 0,4 Л",
+        "description":"<p><strong>Кава Лате зернова 0,4<em> <\/em>л.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4263.png",
+                "medium":"files\/medium\/medium_4263.png",
+                "thumb":"files\/thumbs\/thumb_4263.png"
+            }
+        ],
+        "url":"product\/latte-400"
+    },
+    {
+        "id":2470,
+        "title":"ПРЯНЕ ЛАТЕ 0.4 Л.",
+        "description":"<p><strong>Ароматне Лате з сиропом \"Пряний гарбуз\".<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4312.png",
+                "medium":"files\/medium\/medium_4312.png",
+                "thumb":"files\/thumbs\/thumb_4312.png"
+            }
+        ],
+        "url":"product\/2470\/пряне-лате-0.4-л."
+    },
+    {
+        "id":2388,
+        "title":"КАПУЧИНО 0,3 Л",
+        "description":"<p><strong>Кава Капучино зернова 0,3 л.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4268.png",
+                "medium":"files\/medium\/medium_4268.png",
+                "thumb":"files\/thumbs\/thumb_4268.png"
+            }
+        ],
+        "url":"product\/cappuccino-300"
+    },
+    {
+        "id":2468,
+        "title":"ПРЯНЕ КАПУЧИНО 0.3 Л.",
+        "description":"<p><strong>Ароматне Капучино з сиропом \"Пряний гарбуз\".<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4310.png",
+                "medium":"files\/medium\/medium_4310.png",
+                "thumb":"files\/thumbs\/thumb_4310.png"
+            }
+        ],
+        "url":"product\/2468\/пряне-капучино-0.3-л."
+    },
+    {
+        "id":2390,
+        "title":"АМЕРИКАНО 0,3 Л",
+        "description":"<p><strong>Кава Американо зернова 0,3 л. <\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4262.png",
+                "medium":"files\/medium\/medium_4262.png",
+                "thumb":"files\/thumbs\/thumb_4262.png"
+            }
+        ],
+        "url":"product\/americano-300"
+    },
+    {
+        "id":2389,
+        "title":"ЛАТЕ 0,3 Л",
+        "description":"<p><strong>Кава Лате зернова  0,3 л. <\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4264.png",
+                "medium":"files\/medium\/medium_4264.png",
+                "thumb":"files\/thumbs\/thumb_4264.png"
+            }
+        ],
+        "url":"product\/latte-300"
+    },
+    {
+        "id":2469,
+        "title":"ПРЯНЕ ЛАТЕ 0.3 Л.",
+        "description":"<p><strong>Ароматне Лате з сиропом \"Пряний гарбуз\".<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4311.png",
+                "medium":"files\/medium\/medium_4311.png",
+                "thumb":"files\/thumbs\/thumb_4311.png"
+            }
+        ],
+        "url":"product\/2469\/пряне-лате-0.3-л."
+    },
+    {
+        "id":2449,
+        "title":"АМЕРИКАНО З МОЛОКОМ 0,28 Л",
+        "description":"<p><strong>Кава Американо з молоком 0.28 л. <\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4259.png",
+                "medium":"files\/medium\/medium_4259.png",
+                "thumb":"files\/thumbs\/thumb_4259.png"
+            }
+        ],
+        "url":"product\/americano-280"
+    },
+    {
+        "id":2391,
+        "title":"КАПУЧИНО 0,2 Л",
+        "description":"<p><strong>Кава Капучино зернова 0.2 л.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4269.png",
+                "medium":"files\/medium\/medium_4269.png",
+                "thumb":"files\/thumbs\/thumb_4269.png"
+            }
+        ],
+        "url":"product\/cappuccino-200"
+    },
+    {
+        "id":2392,
+        "title":"ЛАТЕ 0,2 Л",
+        "description":"<p><strong>Кава Лате зернова 0.2 л.<\/strong> <\/p>",
+        "imgs":[
+            {
+                "large":"files\/4265.png",
+                "medium":"files\/medium\/medium_4265.png",
+                "thumb":"files\/thumbs\/thumb_4265.png"
+            }
+        ],
+        "url":"product\/latte-200"
+    },
+    {
+        "id":2393,
+        "title":"АМЕРИКАНО 0,2 Л",
+        "description":"<p><strong>Кава Американо зернова 0,2 л. <\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4261.png",
+                "medium":"files\/medium\/medium_4261.png",
+                "thumb":"files\/thumbs\/thumb_4261.png"
+            }
+        ],
+        "url":"product\/americano-200"
+    },
+    {
+        "id":2448,
+        "title":"АМЕРИКАНО З МОЛОКОМ 0,18 Л",
+        "description":"<p><strong>Кава Американо з молоком 0.18 л. <\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4260.png",
+                "medium":"files\/medium\/medium_4260.png",
+                "thumb":"files\/thumbs\/thumb_4260.png"
+            }
+        ],
+        "url":"product\/americano-180"
+    },
+    {
+        "id":2394,
+        "title":"ЧАЙ ЗЕЛЕНИЙ",
+        "description":"<p><strong>Чай зелений (пакетований)<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4273.png",
+                "medium":"files\/medium\/medium_4273.png",
+                "thumb":"files\/thumbs\/thumb_4273.png"
+            }
+        ],
+        "url":"product\/green-tea"
+    },
+    {
+        "id":2395,
+        "title":"ЧАЙ ЧОРНИЙ",
+        "description":"<p><strong>Чай чорний (пакетований).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4275.png",
+                "medium":"files\/medium\/medium_4275.png",
+                "thumb":"files\/thumbs\/thumb_4275.png"
+            }
+        ],
+        "url":"product\/black-tea"
+    },
+    {
+        "id":2466,
+        "title":"ПУНШ \"СМОРОДИНА - БАЗИЛІК\"",
+        "description":"<p><strong>Пунш зі смаком смородини та базиліку.<\/strong> <br \/><span style=\"color:#e03e2d;\"><strong>До складу напою входить мед!<\/strong><\/span><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4308.png",
+                "medium":"files\/medium\/medium_4308.png",
+                "thumb":"files\/thumbs\/thumb_4308.png"
+            }
+        ],
+        "url":"product\/2466\/пунш-\"смородина---базилік\""
+    },
+    {
+        "id":2465,
+        "title":"ЧАЙ \"АПЕЛЬСИН - М'ЯТА\"",
+        "description":"<p><strong>Чай зі смаком апельсину та м'яти.<\/strong> <br \/><span style=\"color:#e03e2d;\"><strong>До складу напою входить мед!<\/strong><\/span><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4307.png",
+                "medium":"files\/medium\/medium_4307.png",
+                "thumb":"files\/thumbs\/thumb_4307.png"
+            }
+        ],
+        "url":"product\/2465\/чай-\"апельсин---м'ята\""
+    },
+    {
+        "id":2397,
+        "title":"ЧАЙ ЗЕЛЕНИЙ З МАНГО",
+        "description":"<p><strong>Чай зелений з манго (пакетований)<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4272.png",
+                "medium":"files\/medium\/medium_4272.png",
+                "thumb":"files\/thumbs\/thumb_4272.png"
+            }
+        ],
+        "url":"product\/green-tea-mango"
+    },
+    {
+        "id":2396,
+        "title":"ЧАЙ ЧОРНИЙ З БЕРГАМОТОМ",
+        "description":"<p><strong>Чай чорний з бергамотом (пакетований).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4274.png",
+                "medium":"files\/medium\/medium_4274.png",
+                "thumb":"files\/thumbs\/thumb_4274.png"
+            }
+        ],
+        "url":"product\/black-tea-bergamot"
+    },
+    {
+        "id":2277,
+        "title":"ШЕФБУРГЕР ГОСТРИЙ",
+        "description":"<p><strong>Куряче філе в гострій паніровці, соус \"Гамбургер\", томати та салат  під пшеничною булочкою.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 190 г. (466.4 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4399.png",
+                "medium":"files\/medium\/medium_4399.png",
+                "thumb":"files\/thumbs\/thumb_4399.png"
+            }
+        ],
+        "url":"product\/chefburger-spicy"
+    },
+    {
+        "id":2278,
+        "title":"ШЕФБУРГЕР",
+        "description":"<p><strong>Куряче філе в оригінальній паніровці, соус \"Гамбургер\", томати та салат  під пшеничною булочкою.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 193 г. (482.8 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4400.png",
+                "medium":"files\/medium\/medium_4400.png",
+                "thumb":"files\/thumbs\/thumb_4400.png"
+            }
+        ],
+        "url":"product\/chefburger"
+    },
+    {
+        "id":2456,
+        "title":"ТАУЕР БУРГЕР",
+        "description":"<p><strong>Філе у оригінальній паніровці, салат Айсберг з майонезом та кетчупом, картопляник, ніжний сир та хрустка булочка.<\/strong><\/p>\n<p> <\/p>\n<p> <\/p>\n<p><em>Вага продукту - 235 г. (645.5 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4296.jpg",
+                "medium":"files\/medium\/medium_4296.jpg",
+                "thumb":"files\/thumbs\/thumb_4296.jpg"
+            }
+        ],
+        "url":"product\/2456\/тауер-бургер"
+    },
+    {
+        "id":2457,
+        "title":"ТАУЕР БУРГЕР ГОСТРИЙ",
+        "description":"<p><strong>Філе у гострій паніровці, салат з майонезом та кетчупом, картопляник, ніжний сир та хрустка булочка.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 231 г. (629,1 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4290.png",
+                "medium":"files\/medium\/medium_4290.png",
+                "thumb":"files\/thumbs\/thumb_4290.png"
+            }
+        ],
+        "url":"product\/2457\/тауер-бургер-гострий"
+    },
+    {
+        "id":2279,
+        "title":"КЕНТУККІ БУРГЕР",
+        "description":"<p><strong>Куряче філе в оригінальній паніровці, кетчуп та гірчичний соус, ніжний сир, салат та томати на пшеничній булочці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 212 г. (477.8 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4397.png",
+                "medium":"files\/medium\/medium_4397.png",
+                "thumb":"files\/thumbs\/thumb_4397.png"
+            }
+        ],
+        "url":"product\/cheeseburger-deluxe"
+    },
+    {
+        "id":2446,
+        "title":"САНДЕРС КЛАСІК",
+        "description":"<p><strong>Філе в оригінальній паніровці, салат Айсберг з майонезом на пшеничній булочці з чорно-білим кунжутом.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 185 г. (470.2 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4191.png",
+                "medium":"files\/medium\/medium_4191.png",
+                "thumb":"files\/thumbs\/thumb_4191.png"
+            }
+        ],
+        "url":"product\/classic"
+    },
+    {
+        "id":2447,
+        "title":"САНДЕРС ЗІНГЕР",
+        "description":"<p><strong>Філе в гострій паніровці, салат Айсберг з майонезом на пшеничній булочці з чорно-білим кунжутом.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 182 г. (453.8 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4192.png",
+                "medium":"files\/medium\/medium_4192.png",
+                "thumb":"files\/thumbs\/thumb_4192.png"
+            }
+        ],
+        "url":"product\/classic"
+    },
+    {
+        "id":2282,
+        "title":"ЧІЗБУРГЕР",
+        "description":"<p><strong>Стріпс оригінальний, пряний гірчичний соус та кетчуп, огірки, ніжний сир на пшеничній булочці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 124 г. (319.3 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4360.jpg",
+                "medium":"files\/medium\/medium_4360.jpg",
+                "thumb":"files\/thumbs\/thumb_4360.jpg"
+            }
+        ],
+        "url":"product\/cheeseburger"
+    },
+    {
+        "id":2479,
+        "title":"ДАБЛ ЧІЗБУРГЕР",
+        "description":"<p><strong>Два стріпси в оригінальній паніровці, кетчуп, гірчиця, огірки, 2 шматочки ніжного сиру з пшеничною булочкою.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 170 г. (482.5 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4361.jpg",
+                "medium":"files\/medium\/medium_4361.jpg",
+                "thumb":"files\/thumbs\/thumb_4361.jpg"
+            }
+        ],
+        "url":"product\/2479\/дабл-чізбургер"
+    },
+    {
+        "id":2284,
+        "title":"ТОСТ 2 СИРУ",
+        "description":"<p><strong>Тост з двома скибочками ніжного сиру на підрум'яненій булочці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 77 г. (212.7 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4119.jpg",
+                "medium":"files\/medium\/medium_4119.jpg",
+                "thumb":"files\/thumbs\/thumb_4119.jpg"
+            }
+        ],
+        "url":"product\/toast-2-cheese"
+    },
+    {
+        "id":2286,
+        "title":"БОКСМАСТЕР ОРИГІНАЛЬНИЙ",
+        "description":"<p><strong>Куряче філе в оригінальній хрусткій паніровці, картопляник, скибочка сиру, томати та листя салату, майонез, загорнутi у гарячу тортілью.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 279 г. (736.8 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4187.png",
+                "medium":"files\/medium\/medium_4187.png",
+                "thumb":"files\/thumbs\/thumb_4187.png"
+            }
+        ],
+        "url":"product\/boxmaster"
+    },
+    {
+        "id":2291,
+        "title":"ТВІСТЕР ДЖУНІОР СПЕШЛ",
+        "description":"<p><strong>Тортілья, гострі байтси з гірчичним соусом, маринованими огірками, кетчупом та сиром.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 134 г. (369.7 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4378.png",
+                "medium":"files\/medium\/medium_4378.png",
+                "thumb":"files\/thumbs\/thumb_4378.png"
+            }
+        ],
+        "url":"product\/twister-junior-special"
+    },
+    {
+        "id":2290,
+        "title":"ТВІСТЕР ОРИГІНАЛЬНИЙ",
+        "description":"<p><strong>Шматочки курячого філе в оригінальній паніровці разом із листям салату, томатами та майонезом, що загорнуті в гарячу тортілью.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 185 г. (512 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4189.png",
+                "medium":"files\/medium\/medium_4189.png",
+                "thumb":"files\/thumbs\/thumb_4189.png"
+            }
+        ],
+        "url":"product\/twister-toasted"
+    },
+    {
+        "id":2289,
+        "title":"ТВІСТЕР ГОСТРИЙ",
+        "description":"<p><strong>Шматочки курячого філе в гострiй паніровці із листям салату, томатами та соусом загорнуті в гарячу тортілью.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 181 г. (477.4 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4188.png",
+                "medium":"files\/medium\/medium_4188.png",
+                "thumb":"files\/thumbs\/thumb_4188.png"
+            }
+        ],
+        "url":"product\/twister-toasted-spicy"
+    },
+    {
+        "id":2292,
+        "title":"АЙ-ТВІСТЕР СИРНИЙ",
+        "description":"<p><strong>Соковита гостра курочка з сирним соусом, салатом Айсберг та томатами в пшеничній тортильї.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 110 г. (293,20 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4379.png",
+                "medium":"files\/medium\/medium_4379.png",
+                "thumb":"files\/thumbs\/thumb_4379.png"
+            }
+        ],
+        "url":"product\/i-twister"
+    },
+    {
+        "id":2458,
+        "title":"КЕСАДИЛЬЯ З ТОМАТАМИ",
+        "description":"<p><strong>Пшенична тортилья з гострими курячими байтсами, сирний соус, томати та ніжний сир.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 156 г. (456.1 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4376.png",
+                "medium":"files\/medium\/medium_4376.png",
+                "thumb":"files\/thumbs\/thumb_4376.png"
+            }
+        ],
+        "url":"product\/2458\/кесадилья-з-томатами"
+    },
+    {
+        "id":2297,
+        "title":"БАКЕТ 8 ОРИГІНАЛЬНИХ НІЖОК",
+        "description":"<p><strong>8 ніжок обсмажених в хрусткій оригінальній паніровці.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4123.jpg",
+                "medium":"files\/medium\/medium_4123.jpg",
+                "thumb":"files\/thumbs\/thumb_4123.jpg"
+            }
+        ],
+        "url":"product\/bucket-8-drumsticks"
+    },
+    {
+        "id":2298,
+        "title":"ДУЕТ БАКЕТ ГОСТРИЙ",
+        "description":"<p>2 ніжки у гострій паніровці, 4 крильця у гострій паніровці , 4 стріпси гострих та картопля фрі.<\/p>",
+        "imgs":[
+            {
+                "large":"files\/4092.png",
+                "medium":"files\/medium\/medium_4092.png",
+                "thumb":"files\/thumbs\/thumb_4092.png"
+            }
+        ],
+        "url":"product\/bucket-duet-spicy"
+    },
+    {
+        "id":2293,
+        "title":"ХОТ БАКЕТ 26",
+        "description":"<p><strong>26 крилець в гострій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 650 г. (1855.75 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4375.png",
+                "medium":"files\/medium\/medium_4375.png",
+                "thumb":"files\/thumbs\/thumb_4375.png"
+            }
+        ],
+        "url":"product\/bucket-large"
+    },
+    {
+        "id":2294,
+        "title":"ХОТ БАКЕТ 18",
+        "description":"<p><strong>18 курячих крилець в гострій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 450 г. (1284.75 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4374.png",
+                "medium":"files\/medium\/medium_4374.png",
+                "thumb":"files\/thumbs\/thumb_4374.png"
+            }
+        ],
+        "url":"product\/bucket-medium"
+    },
+    {
+        "id":2295,
+        "title":"ХОТ БАКЕТ 12",
+        "description":"<p><strong>12 крилець в гострій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 300 г. (856.5 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4373.png",
+                "medium":"files\/medium\/medium_4373.png",
+                "thumb":"files\/thumbs\/thumb_4373.png"
+            }
+        ],
+        "url":"product\/bucket-small"
+    },
+    {
+        "id":2425,
+        "title":"БАЙТС БАКЕТ",
+        "description":"<p><strong>Бакет оригінальних шматочків курочки у хрусткій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту  - 300 г. (953.7 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4371.png",
+                "medium":"files\/medium\/medium_4371.png",
+                "thumb":"files\/thumbs\/thumb_4371.png"
+            }
+        ],
+        "url":"product\/bucket-bites"
+    },
+    {
+        "id":2301,
+        "title":"САНДЕРС БАКЕТ",
+        "description":"<p><em><strong>Бакет від Полковника Сандерса! 1 ніжка оригінальні, 2 гострих крильця,  2 стріпси оригінальні та гострі байтси.<\/strong><\/em><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 256 г. (741.6 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4377.png",
+                "medium":"files\/medium\/medium_4377.png",
+                "thumb":"files\/thumbs\/thumb_4377.png"
+            }
+        ],
+        "url":"product\/sanders-bucket"
+    },
+    {
+        "id":2318,
+        "title":"ГОСТРІ КРИЛЬЦЯ 3ШТ",
+        "description":"<p><strong>3 гострих курячих крильця в хрусткій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 75 г. (214.3 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3786.jpg",
+                "medium":"files\/medium\/medium_3786.jpg",
+                "thumb":"files\/thumbs\/thumb_3786.jpg"
+            }
+        ],
+        "url":"product\/3-spicy-wings"
+    },
+    {
+        "id":2408,
+        "title":"8 СТРІПСІВ ГОСТРИХ",
+        "description":"<p><strong>8 шматочків курячого філе, в гострій хрусткій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 248 г. (680.76 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4098.png",
+                "medium":"files\/medium\/medium_4098.png",
+                "thumb":"files\/thumbs\/thumb_4098.png"
+            }
+        ],
+        "url":"product\/eight-strips-spicy"
+    },
+    {
+        "id":2409,
+        "title":"8 СТРІПСІВ ОРИГІНАЛЬНИХ",
+        "description":"<p><strong>8 шматочків ніжного курячого філе в хрусткій оригінальній паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 272 г. (809.7 ККАЛ).  <\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4056.jpg",
+                "medium":"files\/medium\/medium_4056.jpg",
+                "thumb":"files\/thumbs\/thumb_4056.jpg"
+            }
+        ],
+        "url":"product\/eight-strips"
+    },
+    {
+        "id":2410,
+        "title":"5 СТРІПСІВ ГОСТРИХ",
+        "description":"<p><strong>5 шматочків курячого філе, обсмаженого в гострій хрусткій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 155 г. (425.4 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4099.png",
+                "medium":"files\/medium\/medium_4099.png",
+                "thumb":"files\/thumbs\/thumb_4099.png"
+            }
+        ],
+        "url":"product\/five-strips-spicy"
+    },
+    {
+        "id":2411,
+        "title":"5 СТРІПСІВ ОРИГІНАЛЬНИХ",
+        "description":"<p><strong>5 шматочків ніжного курячого філе в хрусткій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 170 г. (506 ККАЛ). <\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4053.jpg",
+                "medium":"files\/medium\/medium_4053.jpg",
+                "thumb":"files\/thumbs\/thumb_4053.jpg"
+            }
+        ],
+        "url":"product\/five-strips"
+    },
+    {
+        "id":2323,
+        "title":"3 СТРІПСИ ГОСТРІ",
+        "description":"<p><strong>3 шматочки хрусткого курячого філе в гострій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 93 г. (255.2 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3785.jpg",
+                "medium":"files\/medium\/medium_3785.jpg",
+                "thumb":"files\/thumbs\/thumb_3785.jpg"
+            }
+        ],
+        "url":"product\/3-strips-spicy"
+    },
+    {
+        "id":2324,
+        "title":"3 СТРІПСИ ОРИГІНАЛЬНІ",
+        "description":"<p><strong>3 шматочки хрусткого курячого філе в оригінальній паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 102 г. (303,65 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3798.jpg",
+                "medium":"files\/medium\/medium_3798.jpg",
+                "thumb":"files\/thumbs\/thumb_3798.jpg"
+            }
+        ],
+        "url":"product\/3-strips"
+    },
+    {
+        "id":2307,
+        "title":"4 НІЖКИ ГОСТРІ",
+        "description":"<p><strong>4 хрусткі ніжки обсмажені в гострій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 336 г. (873.2 ККАЛ).<\/em> <\/p>",
+        "imgs":[
+            {
+                "large":"files\/4100.png",
+                "medium":"files\/medium\/medium_4100.png",
+                "thumb":"files\/thumbs\/thumb_4100.png"
+            }
+        ],
+        "url":"product\/4-spicy-drumsticks"
+    },
+    {
+        "id":2308,
+        "title":"4 НІЖКИ ОРИГІНАЛЬНІ",
+        "description":"<p><strong>4 хрусткі ніжки обсмажені в оригінальній паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 336 г. (815.4 ККАЛ). <\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3790.jpg",
+                "medium":"files\/medium\/medium_3790.jpg",
+                "thumb":"files\/thumbs\/thumb_3790.jpg"
+            }
+        ],
+        "url":"product\/4-drumstick"
+    },
+    {
+        "id":2309,
+        "title":"3 НІЖКИ ГОСТРІ",
+        "description":"<p><strong>3 хрусткі ніжки в гострій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 252 г. (654.9 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4101.png",
+                "medium":"files\/medium\/medium_4101.png",
+                "thumb":"files\/thumbs\/thumb_4101.png"
+            }
+        ],
+        "url":"product\/3-spicy-drumsticks"
+    },
+    {
+        "id":2310,
+        "title":"3 НІЖКИ ОРИГІНАЛЬНІ",
+        "description":"<p><strong>3 хрусткі ніжки в оригінальній паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 252 г. (611.6 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3799.jpg",
+                "medium":"files\/medium\/medium_3799.jpg",
+                "thumb":"files\/thumbs\/thumb_3799.jpg"
+            }
+        ],
+        "url":"product\/3-drumstick"
+    },
+    {
+        "id":2311,
+        "title":"2 НІЖКИ ГОСТРИХ",
+        "description":"<p><strong>2 хрусткі ніжки обсмажені в гострій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 168 г. (436.6 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4282.png",
+                "medium":"files\/medium\/medium_4282.png",
+                "thumb":"files\/thumbs\/thumb_4282.png"
+            }
+        ],
+        "url":"product\/2-spicy-drumsticks"
+    },
+    {
+        "id":2312,
+        "title":"2 НІЖКИ ОРИГІНАЛЬНІ",
+        "description":"<p><strong>2 ніжки обсмажені в хрусткій оригінальній паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 168 г. (407.7 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4283.png",
+                "medium":"files\/medium\/medium_4283.png",
+                "thumb":"files\/thumbs\/thumb_4283.png"
+            }
+        ],
+        "url":"product\/2-drumstick"
+    },
+    {
+        "id":2313,
+        "title":"1 НІЖКА ГОСТРА",
+        "description":"<p><strong>1 ніжка обсмажена в хрусткій гострій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 84 г. (218.3 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4102.png",
+                "medium":"files\/medium\/medium_4102.png",
+                "thumb":"files\/thumbs\/thumb_4102.png"
+            }
+        ],
+        "url":"product\/1-spicy-drumstick"
+    },
+    {
+        "id":2314,
+        "title":"1 НІЖКА ОРИГІНАЛЬНА",
+        "description":"<p><strong>Ніжка обсмажена в хрусткій оригінальній паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 84 г. (203.8 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3783.jpg",
+                "medium":"files\/medium\/medium_3783.jpg",
+                "thumb":"files\/thumbs\/thumb_3783.jpg"
+            }
+        ],
+        "url":"product\/1-drumstick"
+    },
+    {
+        "id":2305,
+        "title":"БАЙТС ТЕРІЯКІ",
+        "description":"<p><strong>Шматочки курячого гострого філе з кунжутом, в соусі Теріякі.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 180 г. (581.2 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4372.png",
+                "medium":"files\/medium\/medium_4372.png",
+                "thumb":"files\/thumbs\/thumb_4372.png"
+            }
+        ],
+        "url":"product\/bites-teriyaki"
+    },
+    {
+        "id":2306,
+        "title":"БАЙТС",
+        "description":"<p><strong>Гострі шматочки курочки у хрусткій паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 135г. (429.17 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4369.png",
+                "medium":"files\/medium\/medium_4369.png",
+                "thumb":"files\/thumbs\/thumb_4369.png"
+            }
+        ],
+        "url":"product\/bites"
+    },
+    {
+        "id":2326,
+        "title":"20 НАГЕТСІВ",
+        "description":"<p><strong>20 нагетсів із соковитої курки в оригінальній паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 300 г. (1351.6 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3801.jpg",
+                "medium":"files\/medium\/medium_3801.jpg",
+                "thumb":"files\/thumbs\/thumb_3801.jpg"
+            }
+        ],
+        "url":"product\/20-nuggets"
+    },
+    {
+        "id":2329,
+        "title":"9 НАГЕТСІВ",
+        "description":"<p><strong>9 нагетсів із соковитої курки в оригінальній паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 135 г. (608.7 ККАЛ). <\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4115.png",
+                "medium":"files\/medium\/medium_4115.png",
+                "thumb":"files\/thumbs\/thumb_4115.png"
+            }
+        ],
+        "url":"product\/9-nuggets"
+    },
+    {
+        "id":2330,
+        "title":"6 НАГЕТСІВ",
+        "description":"<p><strong>6 нагетсів із соковитої курки в оригінальній паніровці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 90 г. (405.5 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4116.png",
+                "medium":"files\/medium\/medium_4116.png",
+                "thumb":"files\/thumbs\/thumb_4116.png"
+            }
+        ],
+        "url":"product\/6-nuggets"
+    },
+    {
+        "id":2427,
+        "title":"ЧІКЕН ДЖУНІОР",
+        "description":"<p><strong>Стріпс оригінальний, соус \"Бургер\", огірки на пшеничній булочці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 101 г. (290.9 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4359.jpg",
+                "medium":"files\/medium\/medium_4359.jpg",
+                "thumb":"files\/thumbs\/thumb_4359.jpg"
+            }
+        ],
+        "url":"product\/cheeseburger"
+    },
+    {
+        "id":2404,
+        "title":"ТОСТ УКРАЇНСЬКИЙ",
+        "description":"<p><strong>Тост з двома скибочками ніжного сиру та хеш брауном на підрум'яненій булочці.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 118 г. (366.2 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4120.jpg",
+                "medium":"files\/medium\/medium_4120.jpg",
+                "thumb":"files\/thumbs\/thumb_4120.jpg"
+            }
+        ],
+        "url":"product\/ukranian-toast"
+    },
+    {
+        "id":2412,
+        "title":"МАНГО ЧІЛІ СОУС",
+        "description":"<p><strong>Насичений соус манго-чилі.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/3860.jpg",
+                "medium":"files\/medium\/medium_3860.jpg",
+                "thumb":"files\/thumbs\/thumb_3860.jpg"
+            }
+        ],
+        "url":"product\/mango-chili-sauce"
+    },
+    {
+        "id":2413,
+        "title":"1236",
+        "description":"<p>Наггетси 9 шт + Картопля Фрі стандарт + НАПОЇ ГАЗОВАНІ 0,5 (ПЕПСІ, МІРІНДІ АБО СЕВЕН АП)<\/p>",
+        "imgs":[
+            {
+                "large":"files\/4046.jpg",
+                "medium":"files\/medium\/medium_4046.jpg",
+                "thumb":"files\/thumbs\/thumb_4046.jpg"
+            }
+        ],
+        "url":"product\/1236"
+    },
+    {
+        "id":2414,
+        "title":"1235",
+        "description":"<p>ТВИСТЕР + Капучино 0,3<\/p>",
+        "imgs":[
+            {
+                "large":"files\/4045.jpg",
+                "medium":"files\/medium\/medium_4045.jpg",
+                "thumb":"files\/thumbs\/thumb_4045.jpg"
+            }
+        ],
+        "url":"product\/1235"
+    },
+    {
+        "id":2415,
+        "title":"1233",
+        "description":"<p>Стріпси 5 шт + Картопля Фрі стандарт + НАПОЇ ГАЗОВАНІ 0,5 (ПЕПСІ, МІРІНДІ АБО СЕВЕН АП)<\/p>",
+        "imgs":[
+            {
+                "large":"files\/4044.jpg",
+                "medium":"files\/medium\/medium_4044.jpg",
+                "thumb":"files\/thumbs\/thumb_4044.jpg"
+            }
+        ],
+        "url":"product\/1233"
+    },
+    {
+        "id":2416,
+        "title":"1228",
+        "description":"<p>2 Байтси з курячого філе + Фрі баскет<\/p>",
+        "imgs":[
+            {
+                "large":"files\/4043.jpg",
+                "medium":"files\/medium\/medium_4043.jpg",
+                "thumb":"files\/thumbs\/thumb_4043.jpg"
+            }
+        ],
+        "url":"product\/1228"
+    },
+    {
+        "id":2417,
+        "title":"1225",
+        "description":"<p>Дабл Шефбургер Оригінальний + Картопля Фрі стандарт + НАПОЇ ГАЗОВАНІ 0,5 (ПЕПСІ, МІРІНДІ АБО СЕВЕН АП)<\/p>",
+        "imgs":[
+            {
+                "large":"files\/4042.jpg",
+                "medium":"files\/medium\/medium_4042.jpg",
+                "thumb":"files\/thumbs\/thumb_4042.jpg"
+            }
+        ],
+        "url":"product\/1225"
+    },
+    {
+        "id":2418,
+        "title":"1222",
+        "description":"<p>2 ШЕФБУРГЕР + 2 Картоплі Фрі стандарт + 2 НАПОЇ ГАЗОВАНІ 0,5 (ПЕПСІ, МІРІНДІ АБО СЕВЕН АП)<\/p>",
+        "imgs":[
+            {
+                "large":"files\/4041.jpg",
+                "medium":"files\/medium\/medium_4041.jpg",
+                "thumb":"files\/thumbs\/thumb_4041.jpg"
+            }
+        ],
+        "url":"product\/1222"
+    },
+    {
+        "id":2419,
+        "title":"1216",
+        "description":"<p>ТВИСТЕР ДЕ ЛЮКС ОРИГИНАЛЬНЫЙ СПЕШЛ + АЙ-ТВИСТЕР<\/p>",
+        "imgs":[
+            {
+                "large":"files\/4040.jpg",
+                "medium":"files\/medium\/medium_4040.jpg",
+                "thumb":"files\/thumbs\/thumb_4040.jpg"
+            }
+        ],
+        "url":"product\/1216"
+    },
+    {
+        "id":2296,
+        "title":"БАКЕТ 8 ГОСТРИХ НІЖОК",
+        "description":"<p><strong>8 ніжок обсмажених в хрусткій гострій паніровці.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4122.jpg",
+                "medium":"files\/medium\/medium_4122.jpg",
+                "thumb":"files\/thumbs\/thumb_4122.jpg"
+            }
+        ],
+        "url":"product\/bucket-8-drumsticks-spicy"
+    },
+    {
+        "id":2485,
+        "title":"МЕНЮ З СТРІПСАМИ",
+        "description":"<p><em><strong>5 соковитих стріпс, хруста картопелька фрі та газований напій 0.5л!<\/strong><\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4403.png",
+                "medium":"files\/medium\/medium_4403.png",
+                "thumb":"files\/thumbs\/thumb_4403.png"
+            }
+        ],
+        "url":"product\/2485\/меню-з-стріпсами"
+    },
+    {
+        "id":2431,
+        "title":"СНЕК 2 СТРІПСИ ОРИГІНАЛЬНИХ ТА МАЛЕНЬКА КАРТОПЛЯ ФРІ",
+        "description":"<p><strong>2 стріпси обсмажені в хрусткій паніровці з малою картоплею фрі.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 138 г. (428.4 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4148.png",
+                "medium":"files\/medium\/medium_4148.png",
+                "thumb":"files\/thumbs\/thumb_4148.png"
+            }
+        ],
+        "url":"product\/Snack_2_original_strips_small_fries"
+    },
+    {
+        "id":2432,
+        "title":"СНЕК 2 СТРІПСИ ГОСТРИХ ТА МАЛЕНЬКА КАРТОПЛЯ ФРІ",
+        "description":"<p><strong>2 стріпси обсмажені в гострій хрусткій паніровці з малою картоплею фрі.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 132 г. (397.2 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4149.png",
+                "medium":"files\/medium\/medium_4149.png",
+                "thumb":"files\/thumbs\/thumb_4149.png"
+            }
+        ],
+        "url":"product\/Snack_2_spicy_strips_small_fries"
+    },
+    {
+        "id":2433,
+        "title":"СНЕК 5 НАГЕТСІВ ТА МАЛЕНЬКА КАРТОПЛЯ ФРІ",
+        "description":"<p><strong>Нагетси із соковитої курки в оригінальній паніровці з малою картоплею фрі.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 145 г. (566.4 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4150.png",
+                "medium":"files\/medium\/medium_4150.png",
+                "thumb":"files\/thumbs\/thumb_4150.png"
+            }
+        ],
+        "url":"product\/Snack_5_nuggets_small_fries"
+    },
+    {
+        "id":2434,
+        "title":"СНЕК З БАЙТСАМИ ТА МАЛЕНЬКОЮ КАРТОПЛЕЮ ФРІ",
+        "description":"<p><strong>Гострі шматочки курочки у хрусткій паніровці з малою картоплею фрі.<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 160 г. (511.9 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4151.png",
+                "medium":"files\/medium\/medium_4151.png",
+                "thumb":"files\/thumbs\/thumb_4151.png"
+            }
+        ],
+        "url":"product\/Snack_bytes_small_fries"
+    },
+    {
+        "id":2450,
+        "title":"СІК \"SANDORA\" ВИШНЯ 0,2Л.",
+        "description":"<p><strong>Сік \"Сандора\" зі смаком вишні 0,2л.<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4212.png",
+                "medium":"files\/medium\/medium_4212.png",
+                "thumb":"files\/thumbs\/thumb_4212.png"
+            }
+        ],
+        "url":"product\/sandora-сherry -200"
+    },
+    {
+        "id":2374,
+        "title":"МІЛКШЕЙК ПОЛУНИЦЯ  0.33 Л",
+        "description":"<p><strong>Ніжний молочний коктейль полуничний (0.33 л).<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4256.png",
+                "medium":"files\/medium\/medium_4256.png",
+                "thumb":"files\/thumbs\/thumb_4256.png"
+            }
+        ],
+        "url":"product\/milkshakes-strawberry-300ml"
+    },
+    {
+        "id":2481,
+        "title":"ГРАНДЕР БАРБЕКЮ",
+        "description":"<p><strong>Неймовірний Грандер Барбекю (Куряче філе в оригінальній паніровці, салат Айсберг, томати, соус майонез та барбекю, ніжний сир та хрустка булочка) вже у всіх ресторанах KFC !<\/strong><\/p>\n<p> <\/p>\n<p> <\/p>\n<p>Вага продукту - 286 г. (588.3 ККАЛ).<\/p>",
+        "imgs":[
+            {
+                "large":"files\/4385.png",
+                "medium":"files\/medium\/medium_4385.png",
+                "thumb":"files\/thumbs\/thumb_4385.png"
+            }
+        ],
+        "url":"product\/2481\/грандер-барбекю"
+    },
+    {
+        "id":2482,
+        "title":"ГРАНДЕР БАРБЕКЮ ГОСТРИЙ",
+        "description":"<p><strong>Неймовірний Грандер Барбекю (Куряче філе в гострій паніровці, салат Айсберг, томати, соус майонез та барбекю, ніжний сир та хрустка булочка) вже на всіх ресторанах KFC !<\/strong><\/p>\n<p> <\/p>\n<p><em>Вага продукту - 286 г. (588.3 ККАЛ).<\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4386.png",
+                "medium":"files\/medium\/medium_4386.png",
+                "thumb":"files\/thumbs\/thumb_4386.png"
+            }
+        ],
+        "url":"product\/2482\/грандер-барбекю-гострий"
+    },
+    {
+        "id":2484,
+        "title":"МЕНЮ З НІЖКАМИ",
+        "description":"<p><em><strong>3 соковиті ніжки у оригінальній паніровці, хрустка картопелька фрі та газований напій 0.5л!<\/strong><\/em><\/p>\n<p> <\/p>\n<p> <\/p>",
+        "imgs":[
+            {
+                "large":"files\/4402.png",
+                "medium":"files\/medium\/medium_4402.png",
+                "thumb":"files\/thumbs\/thumb_4402.png"
+            }
+        ],
+        "url":"product\/2484\/меню-з-ніжками"
+    },
+    {
+        "id":2486,
+        "title":"МЕНЮ З НАГЕТСАМИ",
+        "description":"<p><em><strong>9 соковитих нагетсів, хрустка картопелька фрі та газований напій 0.5л!<\/strong><\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4404.png",
+                "medium":"files\/medium\/medium_4404.png",
+                "thumb":"files\/thumbs\/thumb_4404.png"
+            }
+        ],
+        "url":"product\/2486\/меню-з-нагетсами"
+    },
+    {
+        "id":2487,
+        "title":"МЕНЮ З КРИЛЬЦЯМИ",
+        "description":"<p><em><strong>5 соковитих крилець у гострій паніровці, хруста картопелька фрі та газований напій 0.5л!<\/strong><\/em><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4405.png",
+                "medium":"files\/medium\/medium_4405.png",
+                "thumb":"files\/thumbs\/thumb_4405.png"
+            }
+        ],
+        "url":"product\/2487\/меню-з-крильцями"
+    },
+    {
+        "id":2490,
+        "title":"РИС БОКС ТЕРІЯКІ",
+        "description":"<p><strong>Надзвичайний рис з овочами та шматочками курячого гострого філе з додаванням кунжуту у соусі теріякі!<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4429.png",
+                "medium":"files\/medium\/medium_4429.png",
+                "thumb":"files\/thumbs\/thumb_4429.png"
+            }
+        ],
+        "url":"product\/2490\/рис-бокс-теріякі"
+    },
+    {
+        "id":2491,
+        "title":"ТВІСТЕР ТЕРІЯКІ",
+        "description":"<p><strong>Хрустка тортілья, соковите куряче філе в оригінальній паніровці разом із  свіжим листями салату, кунжутом, соусом майонез та теріякі<\/strong><strong>!<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4430.png",
+                "medium":"files\/medium\/medium_4430.png",
+                "thumb":"files\/thumbs\/thumb_4430.png"
+            }
+        ],
+        "url":"product\/2491\/твістер-теріякі"
+    },
+    {
+        "id":2492,
+        "title":"БУРГЕР ТЕРІЯКІ",
+        "description":"<p><strong>Соковите куряче філе в оригінальній паніровці, свіжий салат айсберг, кунжут, соус майонез та теріякі під хрусткою пшеничною булочкою!<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4431.png",
+                "medium":"files\/medium\/medium_4431.png",
+                "thumb":"files\/thumbs\/thumb_4431.png"
+            }
+        ],
+        "url":"product\/2492\/бургер-теріякі"
+    },
+    {
+        "id":2493,
+        "title":"5 СТРІПСІВ ТЕРІЯКІ",
+        "description":"<p><strong>5 шматочнів курячого філе, обсмажених у хрустій оригінальній паніровці з додаванням кунжуту та соусу теріякі!<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4432.png",
+                "medium":"files\/medium\/medium_4432.png",
+                "thumb":"files\/thumbs\/thumb_4432.png"
+            }
+        ],
+        "url":"product\/2493\/5-стріпсів-теріякі"
+    },
+    {
+        "id":2494,
+        "title":"2 НІЖКИ ТЕРІЯКІ",
+        "description":"<p><strong>2 хрусткі ніжки в оригінальній паніровці з додаванням кунжуту та соусу теріякі!<\/strong><\/p>",
+        "imgs":[
+            {
+                "large":"files\/4433.png",
+                "medium":"files\/medium\/medium_4433.png",
+                "thumb":"files\/thumbs\/thumb_4433.png"
+            }
+        ],
+        "url":"product\/2494\/2-ніжки-теріякі"
+    }
+]

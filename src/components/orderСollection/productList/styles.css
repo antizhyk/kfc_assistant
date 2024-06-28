@@ -1,0 +1,21 @@
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .product-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    background-color: #f9f9f9;
+    width: calc(20% - 20px); /* Менший розмір для продуктів */
+    text-align: center; /* Вирівнювання тексту по центру */
+    flex: 0 0 30%; /* Рівномірне розподіл простору */
+  }
+  
+  .product-item h3 {
+    margin: 0;
+    font-size: 14px; /* Зменшення розміру шрифту */
+  }
+  

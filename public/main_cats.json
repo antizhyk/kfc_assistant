@@ -1,0 +1,206 @@
+[
+    {
+        "id": 2543,
+        "permalink": "promo",
+        "visible": true,
+        "parent_id": 0,
+        "color": null,
+        "title": "Новинки!",
+        "description": null,
+        "imgs": [
+            {
+                "large": "files/4303.svg",
+                "medium": "files/4303.svg",
+                "thumb": "files/4303.svg"
+            }
+        ],
+        "c2": null
+    },
+    {
+        "id": 1804,
+        "permalink": "twisters",
+        "visible": true,
+        "parent_id": 0,
+        "color": null,
+        "title": "Твістери",
+        "description": null,
+        "imgs": [
+            {
+                "large": "files/2528.svg",
+                "medium": "files/2528.svg",
+                "thumb": "files/2528.svg"
+            }
+        ],
+        "c2": null
+    },
+    {
+        "id": 1400,
+        "permalink": "burgers",
+        "visible": true,
+        "parent_id": 0,
+        "color": "#e80d4e",
+        "title": "Бургери",
+        "description": null,
+        "imgs": [
+            {
+                "large": "files/2529.svg",
+                "medium": "files/2529.svg",
+                "thumb": "files/2529.svg"
+            }
+        ],
+        "c2": null
+    },
+    {
+        "id": 1396,
+        "permalink": "buckets",
+        "visible": true,
+        "parent_id": 0,
+        "color": null,
+        "title": "Бакети",
+        "description": null,
+        "imgs": [
+            {
+                "large": "files/1986.svg",
+                "medium": "files/1986.svg",
+                "thumb": "files/1986.svg"
+            }
+        ],
+        "c2": null
+    },
+    {
+        "id": 1397,
+        "permalink": "juicy-chicken",
+        "visible": true,
+        "parent_id": 0,
+        "color": null,
+        "title": "Соковита курка",
+        "description": null,
+        "imgs": [
+            {
+                "large": "files/1962.svg",
+                "medium": "files/1962.svg",
+                "thumb": "files/1962.svg"
+            }
+        ],
+        "c2": null
+    },
+    {
+        "id": 2584,
+        "permalink": null,
+        "visible": true,
+        "parent_id": 0,
+        "color": null,
+        "title": "Снеки",
+        "description": null,
+        "imgs": [
+            {
+                "large": "files/4396.svg",
+                "medium": "files/4396.svg",
+                "thumb": "files/4396.svg"
+            }
+        ],
+        "c2": null
+    },
+    {
+        "id": 1841,
+        "permalink": "sauces",
+        "visible": true,
+        "parent_id": 0,
+        "color": null,
+        "title": "Соуси",
+        "description": null,
+        "imgs": [
+            {
+                "large": "files/3288.svg",
+                "medium": "files/3288.svg",
+                "thumb": "files/3288.svg"
+            }
+        ],
+        "c2": null
+    },
+    {
+        "id": 1405,
+        "permalink": "cold-drinks",
+        "visible": true,
+        "parent_id": 0,
+        "color": null,
+        "title": "Холодні напої",
+        "description": null,
+        "imgs": [
+            {
+                "large": "files/3888.svg",
+                "medium": "files/3888.svg",
+                "thumb": "files/3888.svg"
+            }
+        ],
+        "c2": null
+    },
+    {
+        "id": 1812,
+        "permalink": "hot-drinks",
+        "visible": true,
+        "parent_id": 0,
+        "color": null,
+        "title": "Гарячі напої",
+        "description": null,
+        "imgs": [
+            {
+                "large": "files/3887.svg",
+                "medium": "files/3887.svg",
+                "thumb": "files/3887.svg"
+            }
+        ],
+        "c2": null
+    },
+    {
+        "id": 2451,
+        "permalink": null,
+        "visible": true,
+        "parent_id": 0,
+        "color": null,
+        "title": "Морозиво",
+        "description": null,
+        "imgs": [
+            {
+                "large": "files/3884.svg",
+                "medium": "files/3884.svg",
+                "thumb": "files/3884.svg"
+            }
+        ],
+        "c2": null
+    },
+    {
+        "id": 1406,
+        "permalink": "desserts",
+        "visible": true,
+        "parent_id": 0,
+        "color": null,
+        "title": "Десерти",
+        "description": null,
+        "imgs": [
+            {
+                "large": "files/3886.svg",
+                "medium": "files/3886.svg",
+                "thumb": "files/3886.svg"
+            }
+        ],
+        "c2": null
+    },
+    {
+        "id": 1402,
+        "permalink": "milkshakes",
+        "visible": true,
+        "parent_id": 0,
+        "color": null,
+        "title": "Мілкшейк",
+        "description": null,
+        "imgs": [
+            {
+                "large": "files/3885.svg",
+                "medium": "files/3885.svg",
+                "thumb": "files/3885.svg"
+            }
+        ],
+        "c2": null
+    }
+]

@@ -1,0 +1,67 @@
+/* src/App.css */
+.category-buttons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.category-button {
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  color: black; /* Чорний шрифт */
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.bg-promo {
+  background-color: #e0b3ff; /* Світлий фіолетовий для "Новинки!" */
+}
+
+.bg-twisters {
+  background-color: #fff3b3; /* Світлий жовтий для "Твістери" */
+}
+
+.bg-burgers {
+  background-color: #ffccd5; /* Світлий рожевий для "Бургери" */
+}
+
+.bg-buckets {
+  background-color: #ffecb3; /* Світлий оранжевий для "Бакети" */
+}
+
+.bg-juicy-chicken {
+  background-color: #ffffe0; /* Світлий жовтий для "Соковита курка" */
+}
+
+.bg-snacks {
+  background-color: #cce7ff; /* Світлий блакитний для "Снеки" */
+}
+
+.bg-sauces {
+  background-color: #ff9999; /* Світлий червоний для "Соуси" */
+}
+
+.bg-cold-drinks {
+  background-color: #ccefff; /* Світлий блакитний для "Холодні напої" */
+}
+
+.bg-hot-drinks {
+  background-color: #ffd9b3; /* Світлий коричневий для "Гарячі напої" */
+}
+
+.bg-ice-cream {
+  background-color: #ffccff; /* Світлий рожевий для "Морозиво" */
+}
+
+.bg-desserts {
+  background-color: #ffcc99; /* Світлий оранжевий для "Десерти" */
+}
+
+.bg-milkshake {
+  background-color: #ccffcc; /* Світлий зелений для "Мілкшейк" */
+}
+
+.bg-default {
+  background-color: #e0e0e0; /* Світло-сірий для невідомих категорій */
+}
